@@ -70,6 +70,6 @@ and how to achieve them.
 </p>
 
 [carpentries]: https://carpentries.org
-[repo]: https://github.com/gvwilson/change
+[repo]: https://github.com/softwaresaved/change-all-fellows
 [hodges-toby]: https://tbyhdgs.info/
 [wilson-greg]: https://third-bit.com/
