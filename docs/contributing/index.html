@@ -5,39 +5,44 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>Contributing</title>
-<link href="../static/favicon.ico" rel="icon" type="image/x-icon"/>
-<link href="../static/page.css" rel="stylesheet" type="text/css"/>
+<meta content="Organizational Change" name="description"/>
+<link href="../_static/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/chota.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/mccole.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-<nav>
-<a href="../">Home</a>
-      ·
-      <span class="dropdown">
-<a href="#">Lessons</a>
-<span class="dropdown-content" id="nav-lessons">
-<a href="../intro/">Introduction</a>
-<a href="../gst/">Goals, Strategies, and Tactics</a>
-<a href="../power/">Power</a>
-<a href="../starting/">Starting</a>
-<a href="../finishing/">Finishing</a>
-<a href="../finale/">Conclusion</a>
-</span>
-</span>
-      ·
-      <span class="dropdown">
-<a href="#">Appendices</a>
-<span class="dropdown-content" id="nav-appendices">
-<a href="../license/">License</a>
-<a href="../conduct/">Code of Conduct</a>
-<a href="../contributing/">Contributing</a>
-<a href="../bibliography/">Bibliography</a>
-<a href="../glossary/">Glossary</a>
-<a href="../meetings/">How to Run a Meeting</a>
-<a href="../bonus/">Bonus Material</a>
-</span>
-</span>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" class="nav">
+<div class="nav-left">
+<a class="brand" href="../">Organizational Change</a>
+<div class="dropdown">
+<button aria-controls="nav-lessons" aria-haspopup="true">Lessons</button>
+<ul class="dropdown-content" id="nav-lessons">
+<li><a href="../intro/">Introduction</a></li>
+<li><a href="../gst/">Goals, Strategies, and Tactics</a></li>
+<li><a href="../power/">Power</a></li>
+<li><a href="../starting/">Starting</a></li>
+<li><a href="../finishing/">Finishing</a></li>
+<li><a href="../finale/">Conclusion</a></li>
+</ul>
+</div>
+<div class="dropdown">
+<button aria-controls="nav-appendices" aria-haspopup="true">Appendices</button>
+<ul class="dropdown-content" id="nav-appendices">
+<li><a href="../license/">License</a></li>
+<li><a href="../conduct/">Code of Conduct</a></li>
+<li><a class="active" href="../contributing/">Contributing</a></li>
+<li><a href="../bibliography/">Bibliography</a></li>
+<li><a href="../glossary/">Glossary</a></li>
+<li><a href="../meetings/">How to Run a Meeting</a></li>
+<li><a href="../bonus/">Bonus Material</a></li>
+</ul>
+</div>
+<a href="https://github.com/gvwilson/change">Repository</a>
+</div>
 </nav>
-<main>
+<main id="main-content">
 <h1>Contributing</h1>
 <p>Contributions are very welcome;
 please contact us <a href="mailto:gvwilson@third-bit.com">by email</a> or by filing an issue in <a href="https://github.com/gvwilson/change">our repository</a>.
@@ -50,50 +55,12 @@ All contributors must abide by our Code of Conduct.</p>
 <li>Install dependencies: <code>uv sync</code>.</li>
 <li>Run <code>make</code> on its own to see a list of common commands.</li>
 </ul>
-<table>
-<thead>
-<tr>
-<th>make task</th>
-<th>effect</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>build</td>
-<td>render HTML pages</td>
-</tr>
-<tr>
-<td>check</td>
-<td>check structure and content</td>
-</tr>
-<tr>
-<td>clean</td>
-<td>clean up</td>
-</tr>
-<tr>
-<td>commands</td>
-<td>show available commands (default)</td>
-</tr>
-<tr>
-<td>links</td>
-<td>check links in published site</td>
-</tr>
-<tr>
-<td>serve</td>
-<td>serve generated HTML</td>
-</tr>
-<tr>
-<td>spelling</td>
-<td>check for unknown words</td>
-</tr>
-<tr>
-<td>untab</td>
-<td>remove tabs in Markdown files</td>
-</tr>
-</tbody>
-</table>
-<h2>Structure</h2>
+<h2>Style and Structure</h2>
 <ul>
+<li>Lessons are written in Markdown and compiled to HTML using the <code>mccole</code> static site generator.<ul>
+<li>Each lesson should take about an hour to work through.</li>
+</ul>
+</li>
 <li>Lessons are in <code>slug</code> directories<ul>
 <li><code>slug</code> is short mnemonic</li>
 <li>Each lesson must have an <code>index.md</code> file containing its content</li>
@@ -104,10 +71,11 @@ All contributors must abide by our Code of Conduct.</p>
 <li>The leading <code>@</code> is translated into a relative reference to the project root</li>
 </ul>
 </li>
-<li>The Markdown link definitions in <code>extras/links.md</code> are appended to all Markdown files<ul>
+<li>The Markdown link definitions in <code>_extras/links.md</code> are appended to all Markdown files<ul>
 <li>This helps ensure consistent link URLs across pages</li>
 </ul>
 </li>
+<li>Figures, code inclusions, citations, and glossary references are formatted using <code>mccole</code> shortcodes.</li>
 <li>The home page for the site is generated from <code>README.md</code><ul>
 <li>The navigation menus for lessons and appendices are generated from
     the <code>lessons</code> and <code>appendices</code> <code>div</code> elements in <code>README.md</code></li>
@@ -124,12 +92,8 @@ All contributors must abide by our Code of Conduct.</p>
 <li>Use an inline HTML link <code>g:key</code> in files to create links</li>
 </ul>
 </li>
-<li>The <code>static</code> directory contains CSS and JavaScript files</li>
-<li>The <code>templates</code> directory contains <a href="https://jinja.palletsprojects.com/">Jinja</a> templates used to generate HTML<ul>
-<li><code>page.html</code> is used for website pages</li>
-<li><code>slides.html</code> is used for slideshows</li>
-</ul>
-</li>
+<li>The <code>_static</code> directory contains CSS and JavaScript files</li>
+<li>The <code>_templates</code> directory contains <a href="https://jinja.palletsprojects.com/">Jinja</a> templates used to generate HTML</li>
 </ul>
 <h2>FAQ</h2>
 <dl>
@@ -144,19 +108,19 @@ from pointing out mistakes to suggestions for better explanations.</dd>
 <dd>Because if we all give a little, we all get a lot.</dd>
 </dl>
 </main>
-<footer>
+<footer aria-label="Page navigation">
 <div class="row">
 <div class="col-3 left">
-	  ⇐ <a href="../conduct/">Code of Conduct</a>
+<span aria-hidden="true">⇐</span> <a href="../conduct/">Code of Conduct</a>
 </div>
 <div class="col-6 center">
-<a href="../"></a>
-	  © 2025
+<a href="../">Organizational Change</a>
+	  ©
 	  <a href="../#acknowledgments">the authors</a>
 </div>
 <div class="col-3 right">
-<a href="../bibliography/">Bibliography</a> ⇒
-	</div>
+<a href="../bibliography/">Bibliography</a> <span aria-hidden="true">⇒</span>
+</div>
 </div>
 </footer>
 </body>
