@@ -24,6 +24,7 @@
 1.  Who makes funding and work allocation decisions in your institution in theory?
 1.  Who do they need to keep happy, and how do they do this?
 
+This can be helpful later, to create strategy and tactics based on what the change can offer that helps them keep people happy.
 </section>
 
 ## Power Mapping
