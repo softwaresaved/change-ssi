@@ -2,6 +2,11 @@
 
 <p class="subtitle" markdown="1">closing the deal and what happens afterward</p>
 
+## Understanding People
+
+All communities are formed of people. Understanding how to work with these people (including yourself) is the key to implementing the changes you want to enact, and ensuring that the change is durable.
+
+
 ## The 'P' Word
 
 -   "Politics" shouldn't be a dirty word
@@ -26,7 +31,7 @@ Only do it if the director is trusted by people both above and below them,
 
 </div>
 
-## Closing the Deal
+## Collaborate, don't Compete
 
 -   *Support other causes* in exchange for support for yours
     -   As long as goals don't conflict and strategies don't undermine each other
@@ -53,11 +58,9 @@ which in turn makes people more likely to stick with you through the dip.
 
 ### Exercise: Retrospective
 
-1.  In groups, discuss a change at your institution that ran out of steam before it was implemented.
-    What went wrong?
-    Was it ever officially halted?
-1.  In groups, discuss a change that was implemented successfully.
-    What tactics did its proponents use to close the deal that aren't listed above?
+1. In groups, discuss a change in your community that ran out of steam before it was successfully implemented. What went wrong? Was it ever officially halted?
+1. In groups, discuss a change that was implemented successfully. What tactics did its proponents use to close the deal that aren't listed above?
+
 
 </section>
 
@@ -76,6 +79,9 @@ which in turn makes people more likely to stick with you through the dip.
 -   *Don't* rely on social media
     -   Low activation cost means low commitment [[Tufekci2018](b:Tufekci2018)]
     -   Creates bubbles
+- There are different approaches that can be used depending on your personality type
+    - Extrovert, introvert, ambivert, otrovert: knowing what you and the people you are talking to draw energy from, and form personal philosophies around, can help reduce miscommunication
+
 
 <section class="exercise" markdown="1">
 
@@ -83,6 +89,7 @@ which in turn makes people more likely to stick with you through the dip.
 
 1.  Describe something important that you have changed your mind about in the last ten years
     (i.e., fill in the sentence, "I used to think… and now I think…").
+1. In groups, discuss what aspects of that change were down to internal vs external reshaping of beliefs. Who did you trust (including yourself)?
 
 </section>
 
@@ -94,6 +101,11 @@ which in turn makes people more likely to stick with you through the dip.
     -   Can be to their benefit as well
 -   Plan to follow through
     -   Maintenance requires much more effort than construction
+- Agree what benefit, rewards, and recognition look like
+    - Support is more likely if it is visibly valued
+- Allow for flexible engagement
+    - Supporters can contribute in different ways, and at different levels, according to their capacity
+
 
 <section class="exercise" markdown="1">
 
@@ -104,7 +116,31 @@ after most of the organization moved to a new way.
 
 1.  Why was this permitted?
 1.  What were the benefits and drawbacks of allowing this?
+1. What is the ongoing cost of allowing this, and how is it shared?
 
+</section>
+
+## Sustaining change
+
+This course is focussed around enacting change in a community as an individual, rather than enacting changes in the world as a community (of practice or purpose). It is important to also understand how the change in the community benefits the community’s goal.
+
+- Change is successful when it is widely adopted in the community
+    - This often happens when it supports the community’s need or goals
+- A community evolves, and the change may no longer be appropriate, aligned or effective
+    - This is okay!
+    - Sustaining change is also about understanding when to move on
+- As an individual’s role within a community changes, other participants may be better placed to propose and enact new change
+
+<section class="exercise" markdown="1">
+
+### Exercise: moving on and up
+1. Describe a case when a previously successful change was no longer as appropriate or effective.
+    - Had the community need, membership, leadership or stage changed?
+    - Did the community continue regardless, revert to what was done prior to the change, or enact a new change?
+
+1. Describe a case when your role changed in a community
+    - Did this make it easier or harder to sustain a successful change you helped implement?
+    - How did it change your ability to propose or support new changes?
 </section>
 
 ## Sabina Wraps Up

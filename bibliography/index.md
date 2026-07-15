@@ -58,6 +58,15 @@
     2022,
     [9781541701366](https://isbnsearch.org/isbn/9781541701366).
 
+<span id="Educopia2018">Educopia2018</span>
+:   Skinner, K., Ballard, H., Chassanoff, A.,   
+    Drummond, C., Halbert, M., Horth, D., Krabbenhoeft, N., Lippincott, S., Meister, S., Meyerson, J., Perry, C., Schultz, M., Schlosser, M., Seaman, D., Shepard, C., Sherer, J., Walters, T.& Vukasinovic, C. (2018). Community Cultivation: A Field Guide. Zenodo. <https://doi.org/10.5281/zenodo.1491172>
+
+<span id="Gould2020">Gould2020</span>
+:   Chad Sansing and Abigail Cabunoc Mayes:         
+    *Mountain of Engagement*. Mozilla Open Leadership and OLS - Open Seeds, adapted by Cass Gould van Praag, 2020.<https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community/mountain-of-engagement.html>
+    
+
 <span id="Heath2010">Heath2010</span>
 :   Chip Heath and Dan Heath:
     *Switch: How to Change Things When Change Is Hard*.

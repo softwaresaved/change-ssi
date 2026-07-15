@@ -33,11 +33,12 @@ without the prior, explicit permission of all attendees.
 ## Not Covered
 
 -   Community building
-    -   Lots of good guides, including [[Alinsky1989](b:Alinsky1989), [Brown2007](b:Brown2007), [Lakey2018](b:Lakey2018)]
     -   Important to distinguish [community of practice](g:community-practice)
         from [community of purpose](g:community-purpose)
+    -   General organising or creating social movements are not covered. There are lots of good guides on this topic, including [[Alinsky1989](b:Alinsky1989), [Brown2007](b:Brown2007), [Lakey2018](b:Lakey2018)]
+    - However, building and sustaining a community of practice as a specific strategy of change is
 -   Communication skills
-    -   Change won't happen unless someone can write and speak convincingly
+    -   Change won't happen unless someone can write and speak convincingly. However, that does not mean you have to be the loudest voice in the room.
     -   See [[Kuchner2011](b:Kuchner2011)] for some useful insights
 -   Electoral politics
     -   If we were serious about open science,

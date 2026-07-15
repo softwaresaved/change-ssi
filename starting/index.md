@@ -2,15 +2,47 @@
 
 <p class="subtitle" markdown="1">where and how to begin</p>
 
-## A Framework
+## Understanding Communities
 
--   [Diffusion of innovations](g:innovation-diffusion) model [[Rogers2003](b:Rogers2003)]
+How can an individual make a change to a community
+
+This track will focus on how you can advocate for change within a community, although it may also be useful to understand how communities of practice / purpose can be used to effect change within an organization or larger community.
+
+Getting started involves understanding the type of community, the stage it is at, their role participating in it and how change happens within it. There are many different models and frameworks that can help you do this.
+
+### What is a Community of Practice?
+- A [community of practice](g:community-practice) is a group of people who share a common interest and learn from each other through frequent interaction.
+- In contrast, a [community of purpose](g:community-purpose) is a group of people who share a common goal and collaborate to achieve it.
+- Both types of communities, however, often start around a shared need or problem.
+
+### The Mountain of Engagement
+
+The Mountain of Engagement model [[Gould2020](b:Gould2020)] is useful to think about how people progress from first hearing about a project or community to taking on leadership within it.
+
+- Discovery: a person first hears about the project or community
+- First contact: They engage for the first time
+- Participation: They make their first contribution
+- Sustained participation: They continue to be involved
+- Networked participation: They build connections with the community
+- Leadership: They take on responsibility
+        
+The Community Cultivation Framework [[Educopia2018](b:Educopia2018)] is useful to identify and understand the lifecycle stage(s) of a community. Each stage has core questions the community is grappling with which will affect the way that a person might effect change in the community.
+
+- Formation: A community organizes (or reorganizes) and develops services, tools, or shared resources to meet a need held in common by its constituents. It articulates an ethos and culture that binds the major players together.
+- Validation: A community demonstrates its value and validity, broadening its constituent base and sphere of influence. It focuses primarily on external validation, exploring how others may understand, join, or relate to its work.
+- Acceleration: A community scales its services, tools, or resources in order to quickly grow, demonstrating its stability both internally and externally. Communities in this stage sometimes grow fast; they also may fail fast and shift gears towards a spin-off or spin-down process for projects, programs, or the community itself.
+- Transition: A community evaluates its constituents’ changing needs and engages in purposeful transition. It analyzes both external and internal changes and determines how its work can remain vibrant and relevant. Communities and their associated projects and programs may merge, spin off, or spin down.
+
+These stages operate in a continuum, and a community may experience a stage multiple times but the community and surrounding landscape will have different characteristics.
+
+Communities established on need will work to address their needs via innovation and organisational change. The [Diffusion of innovations](g:innovation-diffusion) model [[Rogers2003](b:Rogers2003)] is another useful way to think about how and why people decide to seek out and potentially join a community.
+
 -   Steps are:
-    1.  Knowledge: person becomes aware of a potential change
-    2.  Persuasion: they form a positive or negative attitude
-    3.  Decision: they choose to implement, ignore, or oppose
-    4.  Implementation: they follow through
-    5.  Confirmation: the change is normalized or abandoned
+    -  Knowledge: person becomes aware of a potential change
+    -  Persuasion: they form a positive or negative attitude
+    -  Decision: they choose to implement, ignore, or oppose
+    -  Implementation: they follow through
+    -  Confirmation: the change is normalized or abandoned
 -   Key points:
     -   People can and will drop out at any stage
     -   Facts aren't enough to persuade: people want numbers, but believe stories
@@ -26,7 +58,7 @@ our emotional side,
 and our circumstances.
 Its three key points are to describe a coherent destination,
 appeal to emotion to motivate people,
-and map out a clear path.
+and map out a clear path. Richard Millington at [Feverbee](https://www.feverbee.com/) has a lot of resources for community management, tactics and strategy.
 
 </div>
 
@@ -34,10 +66,12 @@ and map out a clear path.
 
 ### Exercise: What Worked (or Didn't)
 
-Analyze one recent attempt to change your organization in terms of diffusion of innovations.
+Analyze one recent attempt to change a community you are involved with in terms of diffusion of innovations.
+1. What was the need that drove the attempted change? What was the scope of the problem and who is 
+    affected?
+2. What did the advocates of the change do for each step?
+3. Which steps succeeded? Which did not? Why?
 
-1.  What did the advocates of the change do for each step?
-1.  Which steps succeeded? Which did not? Why?
 
 </section>
 
@@ -59,12 +93,17 @@ and an honest retrospective is worth a cup of coffee.
     -   Less intimidating
     -   Gives you a chance to build skills and community
     -   Less damaging to your reputation if you abandon or retract
-1.  Pick something that is *already widely supported*
+1. Look for people who are already doing this work (alone)
+    - Working together with others early on builds shared ownership and responsibility of any solutions or created communities
+1.  Pick something that is *already has support*
     -   Improves odds of success
     -   Makes you appear mainstream rather than radical
 1.  Pick something that is *immediately useful*
     -   Remember, most innovations languish or are met with [passive resistance](g:passive-resistance)
         [[Scott1987](b:Scott1987)]
+1.  Look for other communities who have successfully implemented this change
+    - Learn from their challenges
+    - Their success be used to gain more support
 
 <div class="callout" markdown="1">
 
@@ -81,12 +120,11 @@ which can also be a way to make someone an ally.
 
 ### Exercise: Choosing a Starting Point
 
-1.  Individually, make a list of three organizational changes
-    that would satisfy the criteria above.
-1.  In a group, compare your list with those of of your colleagues.
-    -   What potential changes did several of you identify?
-    -   Why *didn't* they include all of yours?
-
+1. Individually, make a list of three changes that would satisfy the criteria above.
+1. In a group, compare your list with changes suggested by others in your group.
+    - What potential changes did several of you identify?
+    - Why didn't they include all of yours?
+    - What are the activities to support changes that people can do together?
 </section>
 
 <section class="exercise" markdown="1">
@@ -105,7 +143,7 @@ which can also be a way to make someone an ally.
     -   Help you spread the word
     -   Will expect you to listen to others in turn (exchange of social capital)
 -   A [Guru](g:guru) is someone whose expertise in some domain is widely respected
-    -   "If Toby likes it, it must be good"
+    -   "If Oscar likes it, it must be good"
 
 ## Who Not To Start With
 
