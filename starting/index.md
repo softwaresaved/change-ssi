@@ -67,6 +67,7 @@ and map out a clear path. Richard Millington at [Feverbee](https://www.feverbee.
 ### Exercise: What Worked (or Didn't)
 
 Analyze one recent attempt to change a community you are involved with in terms of diffusion of innovations.
+
 1. What was the need that drove the attempted change? What was the scope of the problem and who is 
     affected?
 2. What did the advocates of the change do for each step?
