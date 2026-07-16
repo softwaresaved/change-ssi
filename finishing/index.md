@@ -135,12 +135,11 @@ This course is focussed around enacting change in a community as an individual, 
 
 ### Exercise: moving on and up
 1. Describe a case when a previously successful change was no longer as appropriate or effective.
-    - Had the community need, membership, leadership or stage changed?
-    - Did the community continue regardless, revert to what was done prior to the change, or enact a new change?
-
-1. Describe a case when your role changed in a community
-    - Did this make it easier or harder to sustain a successful change you helped implement?
-    - How did it change your ability to propose or support new changes?
+   1. Had the community need, membership, leadership or stage changed?
+   2. Did the community continue regardless, revert to what was done prior to the change, or enact a new change?
+2. Describe a case when your role changed in a community.
+   1. Did this make it easier or harder to sustain a successful change you helped implement?
+   2. How did it change your ability to propose or support new changes?
 </section>
 
 ## Sabina Wraps Up
