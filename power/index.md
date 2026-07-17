@@ -65,23 +65,19 @@ we owe it to those who fought to make our lives better to do the same.
 ### Exercise: Power Mapping
 
 1.  Pick a small but desirable change in your local environment and create a power map for it.
-1.  Alternatively, translate the description of Sabina's environment below into a power map.
+1.  Alternatively, translate the description of Debs' environment below into a power map.
 
 </section>
 
-## Sabina's Power Map
+## Debs' Power Map
 
--   The *VP of Human Resources* is generally supportive of DEI initiatives
-    but doesn't really understand open source and open science.
--   The *VP of Research* thinks that
-    "all this diversity stuff" distracts people from "real work."
--   The *Chief Counsel* worries about intellectual property loss
-    and the risk of violating data privacy regulations.
--   The *Director of IT* contributes to open source projects in their spare time,
-    but feels depressed whenever they think about the quality of most scientists' code.
--   The other two *senior data analysts* are both supporters of the [FAIR Principles][fair],
-    and believe that data analysis isn't valued as highly by the company as it should be.
--   The *junior data analysts* on their teams are mostly concerned about
-    meeting performance targets and polishing their CVs…
--   …except for the one *self-professed libertarian* who believes that
-    white men are now victims of discrimination.
+As Debs begins thinking about how to introduce a more participatory way of running the community, she identifies the people and groups who are most likely to influence the outcome.
+
+- *Senior managers* support communities of practice in principle but want evidence that giving members more responsibility will improve engagement and deliver value to the organisation.
+- *Administration, HR, IT, and Finance* are generally supportive of communities but are primarily concerned with making sure any new governance arrangements are practical, sustainable, and fit existing organisational processes.
+- *The other senior data analysts* have become cynical about the community because previous attempts to improve it never lasted. They are respected by their colleagues, however, and their support would help give the proposed changes credibility.
+- *Other analysts* see the community as something they attend occasionally rather than something they own. Many are open to becoming more involved if they believe their contributions will genuinely influence the direction of the community.
+- *Junior analysts* are enthusiastic about learning from others and developing professionally, but are often hesitant to volunteer for leadership roles without encouragement or clear expectations.
+- *Internal communities of practice* have experience building engaged communities and are willing to share ideas about governance, participation, and sustaining volunteer contributions.
+- *External communities of practice* provide examples of successful community governance and can demonstrate that shared ownership leads to stronger, more resilient communities.
+

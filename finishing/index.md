@@ -142,15 +142,17 @@ This course is focussed around enacting change in a community as an individual, 
    2. How did it change your ability to propose or support new changes?
 </section>
 
-## Sabina Wraps Up
+## Debs Wraps Up
 
--   Hackathons are now a two-day mandatory event at the end of every quarter
-    -   Sabina vets projects in advance of each hackathon
-    -   All projects must be open source so that externals can take part
-    -   All data must be open as well (same reasoning)
-    -   Annual performance review form asks staff about their contributions
--   Sabina organizes quarterly training sessions to prepare people for these hackathons
-    -   Director of IT (or one of his staff) covers software skills
-    -   Sabina and VP of Human Resources talk about collaboration skills (including DEI)
--   Now justified as a way to collaborate with scientific researchers
-    and find grad students the company might want to recruit
+Through a series of small, incremental changes, Debs helps transform the community from one that members simply attend into one that they actively shape.
+
+The community now has a governance structure that makes it clear how members can contribute, propose new ideas, and help set priorities. Responsibilities such as organising events, facilitating discussions, and coordinating working groups are shared across the community rather than resting with a single individual.
+
+Community meetings focus on topics identified by members themselves, making participation more relevant and valuable to people's day-to-day work. Attendance and engagement increase because members can see how their contributions influence the direction of the community.
+
+Senior managers recognise that giving the community greater ownership has improved collaboration and knowledge sharing without requiring additional oversight. As a result, the new governance model becomes part of how the community operates rather than a temporary initiative.
+
+The community also develops stronger links with other internal and external communities of practice, regularly sharing ideas, resources, and experiences. This helps spread successful approaches across the organisation and brings new perspectives back into the community.
+
+As members become more engaged, they begin sharing software, documentation, training materials, and other research outputs more openly. While improving openness was never the community's only objective, creating a collaborative and participatory culture has made open practices a natural part of how members work together.
+

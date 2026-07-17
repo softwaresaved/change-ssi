@@ -8,18 +8,13 @@ All contributors are required to respect our [Code of Conduct](@/conduct/).
 
 ## Learner Persona
 
--   Sabina, 28, has a master's degree in animal physiology
-    and now works as a data analyst for a mid-sized pharmaceutical company.
--   She takes open access publishing and open source software for granted,
-    but has never been involved in politics or advocacy beyond signing a few online petitions.
--   Sabina's company doesn't have a policy on staff contributing to open source projects,
-    and the head of her department occasionally grumbles about
-    "all this diversity stuff" distracting people from "real work".
-    She wants unambiguous permission for the former and official company support for the latter.
--   Sabina doesn't mind public speaking,
-    but finds face-to-face conflict very stressful.
+- Debs is a data analyst and community coordinator passionate about open science, accessibility, inclusion, and collaborative ways of working.
+- She is frustrated by the current governance of the community of practice, where decisions are largely driven by management and members have limited influence.
+- She aims to introduce more participatory governance, giving members greater ownership, transparency, and a stronger voice in setting priorities.
+- Debs believes governance reform will increase engagement, making the community more relevant, sustainable, and valuable to analysts' day-to-day work.
+- She needs support to lead organisational change, particularly in building consensus, navigating organisational politics, and managing resistance with confidence.
 
-This workshop teaches Sabina the basics of organizational change,
+This workshop teaches Debs the basics of organizational change,
 while the exercises help her figure out what changes she wants
 and how to achieve them.
 
