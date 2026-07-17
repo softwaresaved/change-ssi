@@ -75,12 +75,12 @@ for consideration by the promotion committee.
 
 </section>
 
-## Sabina's Goals and Strategy
+## Debs' Goals and Strategy
 
--   Sabina's goal is to enable people to devote working hours to open source projects and DEI initiatives
--   She doesn't believe there is support for making either mandatory,
-    so her strategy is to have both added to the performance review guidelines at her company
-    as things that people can get credit for
--   Sabina therefore fits in the *Prescribed* - *Environments & Structures* quadrant
-    of Borrego and Henderson's classification
--   Her next step is to pick tactics
+### Goal
+Debs wants to create a community where members actively share knowledge, solve problems together, and feel that they have a genuine stake in its success. She believes this will help make the organisation's research outputs more open, reusable, and accessible.
+
+### Strategy
+Rather than trying to make the community more active herself, Debs decides to create opportunities for members to take ownership. She wants to establish a governance structure that gives community members a voice in setting priorities, organising activities, and shaping the future of the community.
+Debs therefore fits in the *Emergent – Individual* quadrant of Borrego and Henderson's classification.
+Her next step is to identify who can help make this change happen.

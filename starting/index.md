@@ -174,22 +174,12 @@ which can also be a way to make someone an ally.
     -   Otherwise, a little humility might save you a lot of wasted effort
 -   Be sure to distinguish disagreement on goals vs. disagreement on strategy and tactics
 
-## Sabina's Starting Point
+## Debs' Starting Point
 
--   Sabina knows the other data analysts well, so will recruit some of them first
-    -   "Some of them" because the libertarian won't be useful
-        and she needs a plausible way to leave him out for now
--   She gets along well with the Director of IT,
-    who will generally support anything that improves the quality of scientists' code
-    -   He doesn't care as strongly about DEI as Sabina, but is generally supportive
--   Collect and share anecdotes to show that contributing to open source software projects
-    can be a way for junior staff to improve their skills
--   Use this to institute Friday afternoon hackathons
-    -   Participation isn't mandatory,
-        but is tracked and taken into consideration in performance reviews
--   Organize orientation and training for junior staff on how to contribute
-    -   "Here's how to use GitHub" (run by the Director of IT)
-    -   "Here's a refresher on intellectual property"
-        (run by one of the Chief Counsel's underlings)
-    -   "Here's the [Code of Conduct](@/conduct/) that most open source projects use"
-        (which starts discussion of DEI issues)
+Debs starts with people who already believe the community could be more valuable. She speaks with senior analysts, interested junior analysts, and colleagues involved in other successful communities of practice to understand what members feel is missing.
+
+She also reaches out to external communities of practice that have adopted more participatory ways of working. Rather than copying their governance models, she wants to learn what principles made them successful and which ideas might work in her own organisation.
+
+Together with a small group of supporters, Debs begins exploring ways for members to take a more active role in the community. This might include creating a steering group, rotating facilitation responsibilities, establishing working groups, or introducing transparent ways for members to propose and prioritise activities.
+
+By demonstrating that community members can successfully share responsibility, Debs hopes to build confidence among both participants and senior managers before proposing more formal governance changes.
